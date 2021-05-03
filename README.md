@@ -5,9 +5,6 @@
 This is a fully functional php application with a website (containing a blog section)
 and an Admin dashboard that monitors the blog posts, comments, messages from the contact page and newsletter subscribers...etc
 
-###### _Admin Dashboard_
-
-![alt text](screenshots/dashboard.png "Admin Dashboard")
 
 
 
@@ -28,5 +25,4 @@ and an Admin dashboard that monitors the blog posts, comments, messages from the
 
 }
 
-
->> Happy Coding :neckbeard:
+From admin dashboard mail on shubham281098@gmail.com
